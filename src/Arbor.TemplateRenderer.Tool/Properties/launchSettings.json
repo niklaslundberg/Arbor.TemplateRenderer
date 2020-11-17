@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Arbor.TemplateRenderer.Tool": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Projects\\N\\mohedascoutkar\\src\\MohedaScoutkar.Tools.SourceGenerator\\Model.json C:\\Projects\\N\\mohedascoutkar\\src\\MohedaScoutkar.Tools.SourceGenerator\\Handlers.sbntxt"
+    }
+  }
+}
